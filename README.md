@@ -25,7 +25,7 @@ The project also includes a dedicated server VLAN with **HTTP and DNS services**
 ---
 
 ## 🏗️ Network Topology
-
+![Enterprise Network Topology](./screenshots/Network_Topology.png)
 The network consists of:
 
 ### Routers
