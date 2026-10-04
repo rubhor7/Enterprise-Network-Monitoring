@@ -481,7 +481,6 @@ The folder contains evidence for:
 
 ## 📂 Project Structure
 
-```text
 Enterprise-Network-Monitoring/
 │
 ├── Enterprise_Network_Monitoring.pkt
@@ -506,7 +505,6 @@ Enterprise-Network-Monitoring/
     └── Web_Server_DNS_Test.png
 ```
 
----
 
 ## 🚀 Project Highlights
 
@@ -535,3 +533,21 @@ The final implementation successfully connects multiple departments and a dedica
 **Rujuta Bhor**
 
 Electronics & Telecommunication Engineering
+
+---
+
+## ▶️ How to Use
+
+1. Download `Enterprise_Network_Monitoring.pkt`.
+2. Open the file using **Cisco Packet Tracer**.
+3. Review the network topology and VLAN segmentation.
+4. Open the router and switch CLI to review the configurations.
+5. Test connectivity using `ping`.
+6. Test DNS using:
+   ```text
+   nslookup networkmonitor.local
+
+
+   Access the web server using: http://networkmonitor.local
+
+   Recommended: Use a recent version of Cisco Packet Tracer to open the project file.
