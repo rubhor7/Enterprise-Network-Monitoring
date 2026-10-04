@@ -1,6 +1,3 @@
-Absolutely. Copy **everything inside this single box** and paste it into your `README.md` file:
-
-```markdown
 # Enterprise Network Design & Implementation using Cisco Packet Tracer
 
 ## 📌 Project Overview
